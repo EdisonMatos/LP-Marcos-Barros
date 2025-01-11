@@ -111,7 +111,7 @@ const content = {
       title: (
         <h1 className="mb-[16px]">
           Ações eficazes contra
-          <span className="text-primary"> Planos de Saúde </span>e{" "}
+          <span className="text-primary"> Planos de Saúde </span>para{" "}
           <span className="text-primary"> Consumidores </span> prejudicados
         </h1>
       ),
@@ -138,7 +138,7 @@ const content = {
             <path d="m16 18 2 2 4-4" />
           </svg>
         ),
-        text: "Atendimento presencial e online",
+        text: "Atendimento Online",
       },
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
@@ -167,7 +167,7 @@ const content = {
       miniTag: "ÁREAS DE ATUAÇÃO",
       title: "Nossas Especialidades",
       subtitle:
-        "Expert em Direito Médico e do Consumidor, com soluções rápidas e eficientes.",
+        "Expert em Direito de Saúde e do Consumidor, com soluções rápidas e eficientes.",
       imgFeatures: imgFeatures,
       imgDivisor: imgDivisor,
       card1: {
@@ -554,8 +554,8 @@ const content = {
           "⚖️ Fique por dentro do mundo jurídico seguindo o Dr. Marcos Barros nas redes sociais!",
         paragraph: (
           <p>
-            Acompanhe nossas postagens e mantenha-se atualizado sobre Direito do
-            Consumidor, Saúde e muito mais.
+            Acompanhe nossas postagens e mantenha-se atualizado sobre Direito de
+            Saúde, do Consumidor e muito mais.
           </p>
         ),
       },

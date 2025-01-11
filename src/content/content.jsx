@@ -354,7 +354,7 @@ const content = {
         img: featuresImg4,
         title: "Tratamento Autismo Negado - TEA",
         subtitle:
-          "É importante que o tratamento através da terapia ABA seja feito o mais rápido possível, buscando uma melhora da qualidade de vida do paciente. Nesses casos, muitos profissionais estão envolvidos, como psicólogo, terapeuta ocupacional, fisioterapeuta, psicopedagogo, etc. Caso o tratamento seja recusado, é importante buscar o auxílio de um especialista para encontrar a melhor solução e talvez o amparo judicial.",
+          "A terapia ABA deve ser iniciada o quanto antes para melhorar a qualidade de vida do paciente. Profissionais como psicólogos, terapeutas ocupacionais e psicopedagogos estão envolvidos. Se o tratamento for recusado, é essencial consultar um especialista para alternativas e possível apoio judicial.",
         description: (
           <div>
             A_Definir

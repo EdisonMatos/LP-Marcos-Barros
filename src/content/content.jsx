@@ -167,7 +167,7 @@ const content = {
       miniTag: "ÁREAS DE ATUAÇÃO",
       title: "Nossas Especialidades",
       subtitle:
-        "Expert em Direito de Saúde e do Consumidor, com soluções rápidas e eficientes.",
+        "Expert em Direito da Saúde e do Consumidor, com soluções rápidas e eficientes.",
       imgFeatures: imgFeatures,
       imgDivisor: imgDivisor,
       card1: {
@@ -314,7 +314,7 @@ const content = {
       },
       card5: {
         img: featuresImg4,
-        title: "Plástica Pós-Bariátrica",
+        title: "Cirurgia Pós-Bariátrica",
         subtitle:
           "Mostra-se necessária após o paciente realizar uma cirurgia bariátrica, para diminuir a quantidade de pele e aumentar o bem-estar físico e psicológico do paciente. Apesar de difícil no início, os juízes vêm concedendo esse tipo de tratamento.",
         description: (
@@ -352,7 +352,7 @@ const content = {
       },
       card6: {
         img: featuresImg4,
-        title: "Tratamento Autismo Negado - TEA",
+        title: "Transtorno do Espectro Autista - TEA",
         subtitle:
           "A terapia ABA deve ser iniciada o quanto antes para melhorar a qualidade de vida do paciente. Profissionais como psicólogos, terapeutas ocupacionais e psicopedagogos estão envolvidos. Se o tratamento for recusado, é essencial consultar um especialista para alternativas e possível apoio judicial.",
         description: (
@@ -386,8 +386,13 @@ const content = {
       card7: {
         img: featuresImg4,
         title: "Direito do Consumidor",
-        subtitle:
-          "Atuação contra cancelamentos, atrasos de voos e não envio de compras.",
+        subtitle: (
+          <p>
+            - Cancelamento e atraso de voos; <br />
+            - Cancelamento e não envio de compras; <br />- Serviços Públicos:
+            problemas com energia elétrica e água.
+          </p>
+        ),
         description: (
           <div>
             A_Definir
